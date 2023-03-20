@@ -1,0 +1,11 @@
+
+
+**Database Name: wp_digitalex
+
+
+**Admin Login Details**
+
+Username: digitalex
+Password: password123
+
+
