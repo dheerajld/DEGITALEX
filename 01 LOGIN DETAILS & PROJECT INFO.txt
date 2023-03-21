@@ -1,5 +1,3 @@
-
-
 **Database Name: wp_digitalex
 
 
